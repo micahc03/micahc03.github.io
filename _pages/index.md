@@ -13,7 +13,7 @@ Welcome to my page!
 
 big hammer
 
-## What are my goals?
+## What are my goals/future plans?
 
 runs away cutely
 
