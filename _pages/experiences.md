@@ -1,5 +1,5 @@
 ---
-layout: defaults/portfolio
+layout: defaults/list
 permalink: experiences.html
 narrow: true
 title: Leaderhip Experiences
@@ -9,15 +9,15 @@ images:
   - https://images.unsplash.com/photo-1504626835342-6b01071d182e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=975855d515c9d56352ee3bfe74287f2b&auto=format&fit=crop&w=1651&q=80
 ---
 
-## My background
+## Junior Security Analyst
 
 hello
 
-## My "Why"
+## Systems Educator
 
 make money
 
-## Core Values
+## Student Engagement Connector
 
 swag
 
