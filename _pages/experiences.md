@@ -11,11 +11,11 @@ images:
 
 ## Junior Security Analyst
 
-[LINK] (https://micahc03.github.io/ex1.html)
+[LINK](https://micahc03.github.io/ex1.html)
 
 ## Systems Educator
 
-[LINK] (https://micahc03.github.io/ex2.html) Over the summer of 2024, instead of taking an internship experience, I decided to hone my
+[LINK](https://micahc03.github.io/ex2.html) Over the summer of 2024, instead of taking an internship experience, I decided to hone my
 leadership skills elsewhere by becoming a Teaching Assistant for the summer section of Intro
 to Operating Systems. This was my first major experience teaching after an initial bad
 experience, and it taught me how to teach subjects effectively, coordinate with coworkers, and
@@ -25,4 +25,4 @@ and getting over my fear of public speaking.
 
 ## Student Engagement Connector
 
-[LINK] (https://micahc03.github.io/ex3.html)
+[LINK](https://micahc03.github.io/ex3.html)
