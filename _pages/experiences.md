@@ -11,98 +11,18 @@ images:
 
 ## Junior Security Analyst
 
-hello
+[LINK] (https://micahc03.github.io/ex1.html)
 
 ## Systems Educator
 
-make money
+[LINK] (https://micahc03.github.io/ex2.html) Over the summer of 2024, instead of taking an internship experience, I decided to hone my
+leadership skills elsewhere by becoming a Teaching Assistant for the summer section of Intro
+to Operating Systems. This was my first major experience teaching after an initial bad
+experience, and it taught me how to teach subjects effectively, coordinate with coworkers, and
+reinforced my programming and systems skills. It meant a lot to me because I had always
+thought I was bad at social interaction and leadership, but I ended up making a lot of friends
+and getting over my fear of public speaking.
 
 ## Student Engagement Connector
 
-swag
-
-## Full Feature List
-
-- Installation
-  - Designed for Jekyll 3.8
-  - Compatible with GitHub Pages
-- Configuration
-  - Useful data files to quickly generate the profile sidebar and site navigation
-  - Easy to configure, minimal options, sensible defaults
-- Styling
-  - Styled with Bootstrap, proven to work cross-platform
-  - Minimal additional SCSS to get in the way
-  - Entirely customisable by tweaking the Boostrap SCSS variables
-- Layout
-  - 2 column layout
-  - Context-sensitive sidebars for blogs, documentation pages and normal content
-  - Narrow/wide page options
-  - Responsive layout built in
-  - Lots of helpful includes and components to build out your site
-- JavaScript and Components
-  - jQuery and Bootstrap JS included
-  - Use all the Bootstrap components
-- Other goodies
-  - Entypo SVG icons included
-  - Syntax highlighting for code fragments using Rougify for over 100 different languages
-- Blog
-  - A collection layout to build a blog with full support for tagging
-  - Interactive tag filtering for the blog
-- Projects
-  - A layout to list your projects, with a documentation-like layout for each project
-  - Table of contents generation for documentation pages
-- Permalinks
-  - Permalinks using baseurl throughout for deployment under a subdir or on GitHub pages
-  - Permalinks using .html throughout for deployment to environments not using default directory indexes
-
-## Examples
-
-Here's some quick examples of what it can do.
-
-### Code Highlighting
-
-{% highlight javascript %}
-var modulePattern = (function() {
-    // your module code goes here
-    var sum = 0 ;
-
-    return {
-        add:function() {
-            sum = sum + 1;
-            return sum;
-        },
-        reset:function() {
-            return sum = 0;
-        }
-    }
-}());
-{% endhighlight %}
-
-### Bootstrap Components
-
-Here's a CSS component, it's an alert box with the info color:
-
-<div class="alert alert-info">
-    A simple info alert!
-</div>
-
-And this is a more sophisticated example, using the JS to include a carousel of images:
-
-<div id="carouselExampleControls" class="carousel slide mb-4" data-ride="carousel">
-    <div class="carousel-inner">
-        {% for img in page.images %}
-            <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                <img src="{{ img }}" class="d-block w-100" alt="">
-            </div>
-        {% endfor %}
-    </div>
-    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
-</div>
-
+[LINK] (https://micahc03.github.io/ex3.html)

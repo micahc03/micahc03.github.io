@@ -8,7 +8,10 @@ images:
 
 ## How I define leadership
 
-My leadership philosophy today revolves around service. While I am at the helm of leadership, I always remind myself to be humble, and to remember that I am in leadership in service of other people in my community. As a person with several marginalized identities, supporting these communities and being strong for the people is incredibly important for my mission in helping bring organization to these groups. And, while I work hard at leadership (remember, it still doesn’t come easy to me!) I remember that taking care of myself is another pillar - it reminds myself and others that people like me exist, and can flourish, even in difficult times. 
+My leadership philosophy today revolves around service. 
+While I am at the helm of leadership, I always remind myself to be humble, and to remember that I am in leadership in service of other people in my community. 
+As a person with several marginalized identities, supporting these communities and being strong for the people is incredibly important for my mission in helping bring organization to these groups. 
+And, while I work hard at leadership (it doesn’t come easy to me!) I remember that taking care of myself is another pillar - it reminds myself and others that people like me exist, and can flourish, even in difficult times. 
 
 ## My leadership evolution
 
