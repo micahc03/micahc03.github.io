@@ -19,7 +19,7 @@ make money
 
 ## Core Values
 
-swag
+My Core Values are as follows: 
 
 ## Leadership Identities
 

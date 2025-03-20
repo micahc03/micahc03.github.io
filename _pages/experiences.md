@@ -11,11 +11,12 @@ images:
 
 ## Junior Security Analyst
 
-[LINK](https://micahc03.github.io/ex1.html)
+[LINK](https://micahc03.github.io/exp1.html) This was my internship over the summer of 2023, where I worked as an IT Security Intern for the Governance, Risk, and Compliance team at MultiCare, a local hospital system in Tacoma. As part of the Governance, Risk, and Compliance team, my duties were mostly around ensuring legal compliance with IT security standards and other laws, like HIPAA, as well as documenting technology risk and mitigations. I also had a brief time when I was working with the Identity and Access Management team on reorganizing the hospital’s thousands of users and making sure that there were no duplicate accounts and groups. Overall, though it was remote, I had a lot of fun and grew a lot in my first corporate role. 
+
 
 ## Systems Educator
 
-[LINK](https://micahc03.github.io/ex2.html) Over the summer of 2024, instead of taking an internship experience, I decided to hone my
+[LINK](https://micahc03.github.io/exp2.html) Over the summer of 2024, instead of taking an internship experience, I decided to hone my
 leadership skills elsewhere by becoming a Teaching Assistant for the summer section of Intro
 to Operating Systems. This was my first major experience teaching after an initial bad
 experience, and it taught me how to teach subjects effectively, coordinate with coworkers, and
@@ -25,4 +26,4 @@ and getting over my fear of public speaking.
 
 ## Student Engagement Connector
 
-[LINK](https://micahc03.github.io/ex3.html)
+[LINK](https://micahc03.github.io/exp3.html)
