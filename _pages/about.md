@@ -11,7 +11,7 @@ images:
 
 ## My background
 
-hello
+Nice to meet you! I'm Micah Chang, a senior and at the time of writing, an almost grad from the University of Washington's Paul G. Allen School for Computer Science & Engineering, with minors in Ethics and Public Policy. My major passions include computer and cyber security; I loved interning on an IT Security at a local hospital network, and I have been a Teaching Assistant for Intro to Operating Systems as well as Computer Security for almost a year now. I am also invested in promoting diversity and inclusion at the Allen School, serving as the chair for Q++, the queer social engagement club here. I believe that my skills, values, and experience will have a place on any team as a leader. 
 
 ## My "Why"
 
@@ -21,92 +21,4 @@ make money
 
 My Core Values are as follows: 
 
-## Leadership Identities
-
-goat lover
-
-## Full Feature List
-
-- Installation
-  - Designed for Jekyll 3.8
-  - Compatible with GitHub Pages
-- Configuration
-  - Useful data files to quickly generate the profile sidebar and site navigation
-  - Easy to configure, minimal options, sensible defaults
-- Styling
-  - Styled with Bootstrap, proven to work cross-platform
-  - Minimal additional SCSS to get in the way
-  - Entirely customisable by tweaking the Boostrap SCSS variables
-- Layout
-  - 2 column layout
-  - Context-sensitive sidebars for blogs, documentation pages and normal content
-  - Narrow/wide page options
-  - Responsive layout built in
-  - Lots of helpful includes and components to build out your site
-- JavaScript and Components
-  - jQuery and Bootstrap JS included
-  - Use all the Bootstrap components
-- Other goodies
-  - Entypo SVG icons included
-  - Syntax highlighting for code fragments using Rougify for over 100 different languages
-- Blog
-  - A collection layout to build a blog with full support for tagging
-  - Interactive tag filtering for the blog
-- Projects
-  - A layout to list your projects, with a documentation-like layout for each project
-  - Table of contents generation for documentation pages
-- Permalinks
-  - Permalinks using baseurl throughout for deployment under a subdir or on GitHub pages
-  - Permalinks using .html throughout for deployment to environments not using default directory indexes
-
-## Examples
-
-Here's some quick examples of what it can do.
-
-### Code Highlighting
-
-{% highlight javascript %}
-var modulePattern = (function() {
-    // your module code goes here
-    var sum = 0 ;
-
-    return {
-        add:function() {
-            sum = sum + 1;
-            return sum;
-        },
-        reset:function() {
-            return sum = 0;
-        }
-    }
-}());
-{% endhighlight %}
-
-### Bootstrap Components
-
-Here's a CSS component, it's an alert box with the info color:
-
-<div class="alert alert-info">
-    A simple info alert!
-</div>
-
-And this is a more sophisticated example, using the JS to include a carousel of images:
-
-<div id="carouselExampleControls" class="carousel slide mb-4" data-ride="carousel">
-    <div class="carousel-inner">
-        {% for img in page.images %}
-            <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                <img src="{{ img }}" class="d-block w-100" alt="">
-            </div>
-        {% endfor %}
-    </div>
-    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
-</div>
-
+## My Goals

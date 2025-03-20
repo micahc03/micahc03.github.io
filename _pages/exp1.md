@@ -2,14 +2,12 @@
 layout: defaults/page
 permalink: exp1.html
 narrow: true
-title: Junior Security Analyst
+title: Junior IT Security & Compliance Officer
 images:
   - https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5b1016b885e7438c4633109d77368d4d&auto=format&fit=crop&w=1651&q=80
   - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=468a8c18f5d811cf03c654b653b5089e&auto=format&fit=crop&w=1650&q=80
   - https://images.unsplash.com/photo-1504626835342-6b01071d182e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=975855d515c9d56352ee3bfe74287f2b&auto=format&fit=crop&w=1651&q=80
 ---
-
-# Junior IT Security & Compliance Officer
 
 ## Overview
 This was my internship over the summer of 2023, where I worked as an IT Security Intern for the Governance, Risk, and Compliance team at MultiCare, a local hospital system in Tacoma. As part of the Governance, Risk, and Compliance team, my duties were mostly around ensuring legal compliance with IT security standards and other laws, like HIPAA, as well as documenting technology risk and mitigations. I also had a brief time when I was working with the Identity and Access Management team on reorganizing the hospital’s thousands of users and making sure that there were no duplicate accounts and groups. Overall, though it was remote, I had a lot of fun and grew a lot in my first corporate role. 
