@@ -11,11 +11,11 @@ Welcome to my page! I'm Micah Chang, a senior and at the time of writing, an alm
 
 ## What is my "Why"?
 
-big hammer
+I am a service-oriented person and I look to do the work that others I care about cannot do. I'm the person who will help others pick up a cabinet when they're moving or wash the dishes when they come back after a long day. I'm also strongly motivated by doing the right thing - protecting the integrity, honesty, and equity of systems. I do my best to separate my own feelings from what should be done, and to think through how my and others' actions support that. Lastly, I love learning more about the world - I think it's fun to browse Wikipedia pages and read scientific papers from a range of different disciplines. Curiosity about the way the world works has driven me since I was a wee kid and it's not stopping anytime soon 🚗
 
 ## What are my goals/future plans?
 
-runs away cutely
+I want to support other leaders by providing a strong, reliable system that they can bounce and backflip off of. I am mostly concerned with advancing enough in my technical career to a point where I can engage a lot of stakeholders in a conversation about the technology they use, and how best to support their clientele with it. I will encourage others to be sensitive to different groups, and call out people where I believe they have growth spots. Everyone has potential, and I'm not an especially special person here - I'll lead by being a rock to lean on.
 
 ## What experience do you have?
 Great question! I have had a few different unique leadership experiences and identities in my time at the UW. Head to [My Experience](https://micahc03.github.io/experiences.html) for more detailed information.
